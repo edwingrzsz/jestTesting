@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1625076688372" clover="3.2.0">
-  <project timestamp="1625076688372" name="All files">
-    <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7" elements="17" coveredelements="17" complexity="0" loc="10" ncloc="10" packages="1" files="3" classes="3"/>
-    <file name="arrays.js" path="D:\Programming\JavaScript\platzitest\arrays.js">
-      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
-      <line num="1" count="1" type="stmt"/>
-      <line num="2" count="1" type="stmt"/>
-      <line num="4" count="3" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
-    </file>
-    <file name="numbers.js" path="D:\Programming\JavaScript\platzitest\numbers.js">
-      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="1" count="1" type="stmt"/>
-      <line num="2" count="5" type="stmt"/>
-    </file>
-    <file name="true.js" path="D:\Programming\JavaScript\platzitest\true.js">
-      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
-      <line num="1" count="1" type="stmt"/>
-      <line num="2" count="1" type="stmt"/>
-      <line num="3" count="2" type="stmt"/>
-      <line num="4" count="1" type="stmt"/>
-    </file>
+<coverage generated="1625077971721" clover="3.2.0">
+  <project timestamp="1625077971721" name="All files">
+    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="0" files="0" classes="0"/>
   </project>
 </coverage>
