@@ -8,7 +8,7 @@ describe('Comprobaremos que existe un elemento', () => {
         expect(arrayFruits()).not.toContain('Platano');
     });
     test('Comprobar el tamaño de un arreglo', () => {
-        expect(arrayFruits()).toHaveLength(5);
+        expect(arrayFruits()).toHaveLength(6);
     });
     test('Comprobaremos que existe un color', () => {
         expect(arrayColors()).toContain('azul');
